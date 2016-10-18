@@ -1,0 +1,9 @@
+@import url(//fonts.googleapis.com/css?family=Lobster);
+
+.main{
+    background-color: white;
+    color:darkblue;
+    border-style: dashed;
+    font-family: "Lobster", cursive; 
+}
+    
